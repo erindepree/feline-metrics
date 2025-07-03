@@ -1,0 +1,3 @@
+petID,name,species,breed,birthdate,is_active,deathdate,age
+0,Sebastian,cat,siberian,2005-06-15,False,2011-06-20,"relativedelta(years=+6, days=+5)"
+1,Mel,cat,siberian,2011-08-05,True,,"relativedelta(years=+13, months=+10, days=+28)"
