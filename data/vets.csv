@@ -1,1 +1,13 @@
-,vetID,lastname,firstname,clinic,clinicID,notes
+last_name,first_name,clinic_id,vet_id,vet_short,notes
+Ironmonger,Rebecca,park_vet,2,ironmonger,
+Allen,Kate,freeport_urgent,4,allen,
+Miller,Rosalind,yarmouth,7,miller,
+Dorsch,Tammy,park_vet,3,dorsch,
+Fox,Kenneth,wecare,9,fox,
+Smith,Zach,yarmouth,6,smith_zach,
+Smith,Peter,yarmouth,8,smith_peter,
+Samson,,yarmouth,5,samson,
+Weber,Melissa,three_notch,10,weber,
+,,breeder,1,breeder,
+,,park_vet,11,unk_spay,performed spay in early 2012
+,,park_vet,12,unk_2018,2018 annual exam

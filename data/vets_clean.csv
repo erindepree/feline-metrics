@@ -1,0 +1,13 @@
+vet_id,last_name,first_name,clinic_id,vet_short,notes
+1,,,breeder,breeder,
+2,Ironmonger,Rebecca,park_vet,ironmonger,Mel's primary vet: 2011 -- 2015
+3,Dorsch,Tammy,park_vet,dorsch,Mel's primary vet: 2021 -- 2022
+4,Allen,Kate,freeport_urgent,allen,
+5,Samson,,yarmouth,samson,
+6,Smith,Zach,yarmouth,smith_zach,
+7,Miller,Rosalind,yarmouth,miller,Mel's primary vet: 2024 -- 2025
+8,Smith,Peter,yarmouth,smith_peter,
+9,Fox,Kenneth,wecare,fox,
+10,Weber,Melissa,three_notch,weber,
+11,,,park_vet,unk_spay,performed spay in early 2012
+12,,,park_vet,unk_2018,2018 annual exam

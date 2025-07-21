@@ -1,0 +1,20 @@
+date,vet_short,vet_id,clinic_id,cost,incident_id,type,notes
+5/12/2025,miller,7,yarmouth,308.94,1016,annual exam,
+4/27/2023,samson,5,yarmouth,134,1012,"follow up, annual exam",dental cleaning recommended
+6/12/2023,smith_zach,6,yarmouth,365.42,1013,dental cleaning,
+7/19/2024,smith_peter,8,yarmouth,180,1015,dental cleaning,
+11/7/2011,ironmonger,2,park_vet,,1001,new kitten,
+11/28/2011,ironmonger,2,park_vet,,1002,annual exam,vaccines
+3/1/2012,unk,11,park_vet,,1003,spay,
+11/1/2012,ironmonger,2,park_vet,,1004,annual exam,
+11/1/2013,ironmonger,2,park_vet,,1005,annual exam,
+11/1/2014,ironmonger,2,park_vet,,1006,annual exam,
+11/1/2015,ironmonger,2,park_vet,,1007,annual exam,"can return in 3 yr, if no problems"
+7/27/2021,dorsch ,3,park_vet,,1009,annual exam,
+7/14/2022,dorsch,3,park_vet,,1010,annual exam,bloodwork
+3/27/2023,allen,4,freeport_urgent,0,1011,emergency,
+6/1/2024,miller,7,yarmouth,,1014,annual visit,"dental  clean rec, needs to lose 1 lb"
+6/22/2025,fox,9,wecare,895.98,1017,emergency,"limp, not broken, follow up with regular vet if not better in 1 week"
+11/1/2018,unk,12,park_vet,,1008,annual exam,
+6/26/2025,weber,10,three_notch,264.95,1018,follow up,"return in two weeks if no improvement, improved after 1.5 weeks, cancelled follow up appointment"
+10/31/2011,breeder,1,breeder,,1000,vaccine,

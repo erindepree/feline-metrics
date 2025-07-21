@@ -1,0 +1,5 @@
+,date,medication,reason,dose,units,frequency,incident_id,vet_id,clinic_id,comments
+0,2025-06-30,gabapentin,pain,50,mg,12-24 hours,1018,10,three_notch,tablet
+1,2025-06-30,robenacoxib (onsior),pain/inflammation,6,mg,24-48 hours,1018,10,three_notch,tablet
+2,2025-06-22,gabapentin,pain,50,mg/ml,8 - 12 hours,1017,9,wecare,liquid
+3,2025-06-22,robenacoxib (onsior),inflammation,6,mg,24 hours,1017,9,wecare,tablet

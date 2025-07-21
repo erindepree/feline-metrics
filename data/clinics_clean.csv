@@ -1,0 +1,7 @@
+,clinic_id,clinic_name,phone,address,website,text,email
+0,park_vet,Park Vet Clinic,(301) 863-9222,"21367 Great Mills Rd, Lexington Park, MD 20653",,,
+1,yarmouth,Yarmouth Veterinary Center,(207) 846-6515,"5 Environmental Dr, Cumberland Foreside, ME 04110",https://www.yarmouthvetcenter.com/,(207) 846-6515,clients@yarmouthvet.com
+2,freeport_urgent,Pet Medic Urgent Care (Freeport),(207) 805-5398,"200 Lower Main St, Freeport, ME 04032",petmedicurgentcare.com,,
+3,three_notch,Three Notch Vet Hospital,(301) 373-8633,"44215 Airport View Dr, Hollwood, MD 20636",https://vcahospitals.com/three-notch,,
+4,wecare,Waldorf Emergency Care,(301) 705-9700,"3485 Rockfeller Ct, Waldorf, MD 20602",www.waldorfemergencycare.com,,info@waldorfemergencycare.com
+5,breeder,vaccines given by breeder and/or vet,,,,,
